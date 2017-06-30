@@ -23,7 +23,7 @@ class tf:
     def getResult(self,q):
         query = q
         prediction = self.model.predict(self.cv.transform([clean(query)]).toarray())
-        pclass = self.cv1.get_feature_names()[prediction[0].index(max(prediction[0]))]
+        pclass = self.cv1.get_feature_names()[prediction.argmax()]
         return self.chatdata[self.chatdata['Intent']==pclass].iloc[0].answer
 
 

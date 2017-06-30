@@ -1,0 +1,280 @@
+freq,ngram,nextword
+1,about,application
+1,about application,management
+1,about,big
+1,about big,data
+1,about,consulting
+1,about consulting,division
+1,about,softwares
+1,about,sopra
+1,about sopra,steria
+1,about,testing
+1,about testing,division
+1,andoid,applications
+5,application,management
+2,application management,services
+1,are,application
+1,are application,management
+4,are,the
+1,are the,locations
+1,are the,products
+1,are the,softwares
+1,are the,various
+2,are,you
+1,are you,situated
+1,are,your
+1,are your,offices
+1,assuarance,services
+4,big,data
+1,big data,help
+1,by,sopra
+1,by sopra,steria
+1,can,big
+1,can big,data
+1,can,internet
+1,can internet,of
+2,can,you
+2,can you,help
+2,consulting,division
+2,consulting division,of
+1,consulting,serivce
+1,data,help
+1,data help,me
+2,division,of
+2,division of,sopra
+1,divisions,in
+1,divisions in,sopra
+2,do,in
+1,do in,mobility
+1,do in,social
+10,do,you
+2,do you,do
+1,do you,have
+1,do you,make
+4,do you,offer
+2,do you,work
+2,does,sopra
+2,does sopra,steria
+1,domain,of
+1,domain of,big
+1,domains,you
+1,domains you,work
+1,employees,work
+1,employees work,in
+1,experience,in
+1,experience in,internet
+1,form,of
+1,form of,sopra
+1,full,form
+1,full form,of
+1,have,experience
+1,have experience,in
+4,help,me
+1,help me,in
+1,how,are
+1,how are,you
+3,how,can
+1,how can,big
+1,how can,internet
+1,how can,you
+2,how,many
+1,how many,employees
+1,how many,people
+1,how,much
+1,how much,sopra
+1,in,application
+1,in application,management
+1,in,internet
+1,in internet,of
+1,in,mobile
+1,in mobile,applications
+1,in,mobility
+1,in,social
+1,in social,business
+3,in,sopra
+3,in sopra,steria
+1,in,the
+1,in the,domain
+2,internet,of
+2,internet of,things
+1,is,big
+1,is big,data
+1,is,social
+1,is social,business
+1,is,sopra
+1,is sopra,steria
+5,is,the
+1,is the,consulting
+1,is the,full
+1,is the,revenue
+1,is the,strength
+1,is the,use
+1,locations,of
+1,locations of,your
+1,made,by
+1,made by,sopra
+1,make,andoid
+1,make andoid,applications
+2,management,services
+1,management services,you
+1,many,employees
+1,many employees,work
+1,many,people
+1,many people,work
+6,me,about
+1,me about,application
+1,me about,big
+1,me about,consulting
+1,me about,softwares
+1,me about,sopra
+1,me about,testing
+1,me,in
+1,me in,mobile
+1,mobile,applications
+1,mobile,software
+1,mobile software,management
+1,much,sopra
+1,much sopra,steria
+1,no,of
+1,no of,people
+1,of,big
+1,of big,data
+1,of,iot
+1,of,people
+1,of people,working
+6,of,sopra
+6,of sopra,steria
+2,of,things
+1,of things,help
+1,of,your
+1,of your,offices
+2,offer,application
+2,offer application,management
+1,offer,consulting
+1,offer consulting,serivce
+1,offer,in
+1,offer in,application
+1,offer,mobile
+1,offer mobile,software
+1,people,work
+1,people work,here
+1,people,working
+1,people working,in
+1,products,of
+1,products of,sopra
+1,quality,assuarance
+1,quality assuarance,services
+1,revenue,of
+1,revenue of,sopra
+2,services,sopra
+2,services sopra,steria
+1,services,you
+1,services you,offer
+2,social,business
+1,software,management
+1,softwares,made
+1,softwares made,by
+21,sopra,steria
+1,sopra steria,does
+1,sopra steria,earned
+1,sopra steria,follows
+1,sopra steria,make
+1,sopra steria,offer
+3,sopra steria,offers
+1,sopra steria,provides
+1,stategy,sopra
+1,stategy sopra,steria
+1,steria,does
+1,steria,earned
+1,steria,follows
+1,steria,make
+1,steria,offer
+1,steria offer,application
+3,steria,offers
+1,steria,provides
+1,strength,of
+1,strength of,sopra
+6,tell,me
+6,tell me,about
+1,testing,division
+1,testing,services
+1,testing services,sopra
+1,testing,stategy
+1,testing stategy,sopra
+1,the,consulting
+1,the consulting,division
+1,the,domain
+1,the domain,of
+1,the,full
+1,the full,form
+1,the,locations
+1,the locations,of
+1,the,products
+1,the products,of
+1,the,revenue
+1,the revenue,of
+1,the,softwares
+1,the softwares,made
+1,the,strength
+1,the strength,of
+1,the,use
+1,the use,of
+1,the,various
+1,the various,divisions
+1,things,help
+1,things help,me
+1,use,of
+1,use of,iot
+1,various,divisions
+1,various divisions,in
+5,what,are
+1,what are,application
+4,what are,the
+3,what,do
+3,what do,you
+1,what,does
+1,what does,sopra
+1,what,domains
+1,what domains,you
+8,what,is
+1,what is,big
+1,what is,social
+1,what is,sopra
+5,what is,the
+1,what,services
+1,what services,sopra
+3,what,sopra
+3,what sopra,steria
+2,what,testing
+1,what testing,services
+1,what testing,stategy
+2,where,are
+1,where are,you
+1,where are,your
+1,where,do
+1,where do,you
+1,work,here
+2,work,in
+1,work in,sopra
+1,work in,the
+1,work,on
+1,working,in
+1,working in,sopra
+2,you,do
+2,you do,in
+1,you,have
+1,you have,experience
+2,you,help
+2,you help,me
+1,you,make
+1,you make,andoid
+5,you,offer
+1,you offer,application
+1,you offer,consulting
+1,you offer,in
+1,you offer,mobile
+1,you,situated
+3,you,work
+1,you work,in
+1,you work,on
+2,your,offices

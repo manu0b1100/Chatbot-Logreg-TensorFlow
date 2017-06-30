@@ -1,0 +1,9 @@
+Django==1.11.2
+gunicorn==19.6.0
+pandas
+sklearn
+numpy
+scipy
+nltk
+tensorflow
+tflearn

@@ -12,26 +12,7 @@
 
     <script type="text/javascript">
         $(document).ready(function () {
-            $('#query').keyup(function () {
-                var q=$(this).val();
-                if(q.slice(-1)==" "){
-                    $.ajax({
-                        type:'POST',
-                        url:"{% url 'chatapp:getnword' %}",
-                        data:{
-                            query:q,
-                            csrfmiddlewaretoken: $('input[name=csrfmiddlewaretoken]').val()
 
-                    },
-                        success:function (data) {
-                            console.log(data)
-
-                        }
-                    })
-                }
-
-
-            });
            $('#sub').click(function(e){
                e.preventDefault();
               q=$('#query').val();

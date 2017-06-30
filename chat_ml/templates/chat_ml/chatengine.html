@@ -25,7 +25,7 @@
 {#               $(this).attr('href')#}
               $.ajax({
                 type: 'POST',
-                url: "{% url 'chatapp:tensorflow' %}",
+                url: $(this).attr('href'),
                 data: {
                     query:q,
                     csrfmiddlewaretoken: $('input[name=csrfmiddlewaretoken]').val()

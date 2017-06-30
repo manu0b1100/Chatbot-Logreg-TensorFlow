@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="812706d9-ebcd-4d44-8ae4-0448329bf4ce" name="Default" comment="" />
+    <list default="true" id="812706d9-ebcd-4d44-8ae4-0448329bf4ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/class_count_vector.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/class_count_vector.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/count_vector.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/count_vector.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/lencoder.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/lencoder.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/logistic.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/logistic.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.data-00000-of-00001" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.data-00000-of-00001" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.index" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.meta" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/tfidf.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/tfidf.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" afterPath="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chatengine.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chatengine.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-718">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="486">
+              <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -83,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deeplearn.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deeplearn.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chat_ml/Model/deeplearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="2">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#1#15#0" expanded="true" />
@@ -131,9 +141,9 @@
         <option value="$PROJECT_DIR$/chat_ml/Model/deeplearn.py" />
         <option value="$PROJECT_DIR$/chat_ml/Model/regression.py" />
         <option value="$PROJECT_DIR$/ChatBot/settings.py" />
-        <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" />
         <option value="$PROJECT_DIR$/chat_ml/views.py" />
         <option value="$PROJECT_DIR$/chat_ml/urls.py" />
+        <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" />
       </list>
     </option>
   </component>
@@ -923,16 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_ml/Model/deeplearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChatBot/staticfiles/admin/css/changelists.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1019,9 +1019,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-718">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_ml/Model/deeplearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

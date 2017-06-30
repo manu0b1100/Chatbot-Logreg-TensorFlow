@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812706d9-ebcd-4d44-8ae4-0448329bf4ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/class_count_vector.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/class_count_vector.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/count_vector.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/count_vector.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/lencoder.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/lencoder.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/logistic.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/logistic.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.data-00000-of-00001" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.data-00000-of-00001" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.index" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.meta" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/tfidf.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/tfidf.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChatBot/settings.py" afterPath="$PROJECT_DIR$/ChatBot/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" afterPath="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +44,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ChatBot/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="chatengine.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="-605">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mystyle.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_ml/static/chat_ml/mystyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -73,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ChatBot/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="119" column="30" lean-forward="false" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
+            <state relative-caret-position="2160">
+              <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,14 +106,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deeplearn.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deeplearn.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_ml/Model/deeplearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
+            <state relative-caret-position="-114">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#1#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_ml/Model/regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,8 +134,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="Python Script" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -140,9 +163,10 @@
         <option value="$PROJECT_DIR$/chat_ml/Model/googleapimod.py" />
         <option value="$PROJECT_DIR$/chat_ml/Model/deeplearn.py" />
         <option value="$PROJECT_DIR$/chat_ml/Model/regression.py" />
-        <option value="$PROJECT_DIR$/ChatBot/settings.py" />
         <option value="$PROJECT_DIR$/chat_ml/views.py" />
         <option value="$PROJECT_DIR$/chat_ml/urls.py" />
+        <option value="$PROJECT_DIR$/ChatBot/settings.py" />
+        <option value="$PROJECT_DIR$/chat_ml/static/chat_ml/mystyle.css" />
         <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" />
       </list>
     </option>
@@ -232,6 +256,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat_ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat_ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -626,14 +672,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chat_ml/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat_ml/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -833,13 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChatBot/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -925,14 +956,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_ml/Model/regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChatBot/staticfiles/admin/css/changelists.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -965,16 +988,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_ml/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat_ml/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -999,14 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChatBot/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="119" column="30" lean-forward="false" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat_ml/Model/tokenize_stem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1017,21 +1022,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html">
+    <entry file="file://$PROJECT_DIR$/chat_ml/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_ml/static/chat_ml/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatBot/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chat_ml/Model/deeplearn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
+        <state relative-caret-position="-114">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#1#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_ml/Model/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatBot/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

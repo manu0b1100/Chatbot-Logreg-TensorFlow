@@ -5,5 +5,5 @@ sklearn
 numpy
 scipy
 nltk
-tensorflow
-tflearn
+tensorflow==1.2.1
+tflearn==0.3.2

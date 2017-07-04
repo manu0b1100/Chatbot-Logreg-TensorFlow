@@ -1,20 +1,22 @@
 import pandas as pd
 from sklearn.externals import joblib
 from .tokenize_stem import clean
+from chat_ml.Analytics.pushToDatabase import *
 
 class Lregression:
     def __init__(self):
-        print("initialised")
+        # print("initialised")
         self.chatdata = pd.read_csv("./chat_ml/Data/processedchatdata.csv",converters={'corpus':str})
         self.le = joblib.load('./chat_ml/Data/lencoder.pkl')
         self.logreg = joblib.load('./chat_ml/Data/logistic.pkl')
         self.tfidf = joblib.load('./chat_ml/Data/tfidf.pkl')
 
 
-    def myfunc(self,q):
+    def myfunc(self,q,key):
         cleanQuery=self.tfidf.transform([clean(q)])
         res=self.le.inverse_transform(self.logreg.predict(cleanQuery))
-        print(res)
+        uq.addQuery(q,res[0],self.logreg.predict_proba(cleanQuery)[0].max(),key)
+        # print(self.logreg.predict_proba(cleanQuery)[0].max())
         return self.chatdata[self.chatdata['Intent']==res[0]].iloc[0].answer
 
 

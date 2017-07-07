@@ -6,6 +6,8 @@ stopwords.add(',')
 stopwords.add('.')
 stopwords.add('sopra')
 stopwords.add('steria')
+stopwords.remove('when')
+stopwords.remove('who')
 def stem_tokens(tokens):
     stemmer = PorterStemmer()
     stemmed = []
@@ -26,3 +28,12 @@ def clean(text):
     text = text.lower()
     text = tokenize(text)
     return text
+
+def cleanAndMerge(ques):
+    corpus=[]
+    for i in range(0,ques.size):
+        text=ques[i]
+        text=text.lower()
+        text=tokenize(text)
+        corpus.append(text)
+    return corpus

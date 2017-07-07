@@ -20,7 +20,13 @@ def home(request):
         request.session['key'] = ''.join(choice(ascii_uppercase) for i in range(10))
     if request.is_ajax():
         q=request.POST['query']
-        ans=lr.myfunc(q,request.session['key'])
+        if(q=='help'):
+            ans=lr.helpfunc()
+        else:
+            ans = lr.myfunc(q, request.session['key'])
+
+
+
         return HttpResponse(ans)
 
     return render(request,'chat_ml/chatengine.html',{'name':'manobhav'})

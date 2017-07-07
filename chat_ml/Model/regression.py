@@ -18,6 +18,13 @@ class Lregression:
         uq.addQuery(q,res[0],self.logreg.predict_proba(cleanQuery)[0].max(),key)
         # print(self.logreg.predict_proba(cleanQuery)[0].max())
         return self.chatdata[self.chatdata['Intent']==res[0]].iloc[0].answer
+    def helpfunc(self):
+        l=list(self.le.classes_)
+        # l.remove('same')
+        l.remove('greeting')
+        s="You can ask me about- "+", ".join([ele.replace('_'," ").title() for ele in l])
+        return s
+
 
 
         # if res[0]!='yes' or res[0]!='no':

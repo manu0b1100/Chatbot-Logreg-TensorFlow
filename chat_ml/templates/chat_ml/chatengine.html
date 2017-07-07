@@ -13,9 +13,24 @@
     <script type="text/javascript">
         $(document).ready(function () {
             var $div=$("<div>",{'class':"answer"});
-                $div.text("Hey , You can ask me anything about Sopra Steria. I'll try my best to anwser all your queries.")
+                $div.text("Hey , You can ask me anything about Sopra Steria. I'll try my best to anwser your queries. You can start by asking about how can we help in your business, our products, services, history or the domains we work in. Type 'help to get the list of topics I have knowledge of.")
             $('#chatbox').append($div);
+            $('#check').change(function () {
+                var $div=$("<div>",{'class':"answer"});
 
+                if($('#check').prop('checked')==true){
+                   $div.text("This Chat App is now powered by Logistic Regression");
+
+
+               }
+               else{
+                   $div.text("This Chat App is now powered by TensorFlow. If you feel you are not getting the desired result, toggle the switch to get back to Logistic Regression.")
+
+               }
+                $('#chatbox').append($div);
+
+
+            });
            $('#sub').click(function(e){
                e.preventDefault();
               q=$('#query').val();

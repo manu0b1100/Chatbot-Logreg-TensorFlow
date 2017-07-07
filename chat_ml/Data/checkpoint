@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/manobhav/PycharmProjects/ChatBot/chat_ml/Data/model.tflearn"
+all_model_checkpoint_paths: "/home/manobhav/PycharmProjects/ChatBot/chat_ml/Data/model.tflearn"

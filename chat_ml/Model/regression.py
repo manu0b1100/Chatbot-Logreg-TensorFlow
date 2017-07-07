@@ -20,7 +20,7 @@ class Lregression:
         return self.chatdata[self.chatdata['Intent']==res[0]].iloc[0].answer
     def helpfunc(self):
         l=list(self.le.classes_)
-        # l.remove('same')
+        l.remove('same')
         l.remove('greeting')
         s="You can ask me about- "+", ".join([ele.replace('_'," ").title() for ele in l])
         return s

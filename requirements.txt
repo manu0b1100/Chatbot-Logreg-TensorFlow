@@ -9,3 +9,4 @@ tensorflow==1.2.1
 tflearn==0.3.2
 dj_database_url
 psycopg2
+sqlalchemy

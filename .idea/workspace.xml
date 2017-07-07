@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812706d9-ebcd-4d44-8ae4-0448329bf4ce" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/59IRWV/events.out.tfevents.1497861494.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/957HHD/events.out.tfevents.1497339026.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/BBS2YV/events.out.tfevents.1499453087.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/CI5XI0/events.out.tfevents.1499426706.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/F0GK9F/events.out.tfevents.1498933627.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/FSL0EX/events.out.tfevents.1498835657.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/FVYZS7/events.out.tfevents.1498848707.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/GGK44T/events.out.tfevents.1497597948.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/GGXRKU/events.out.tfevents.1498669449.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/IYRS8E/events.out.tfevents.1499450021.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/PBJHJY/events.out.tfevents.1499449526.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/PKP8ER/events.out.tfevents.1497340091.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/PLO2L7/events.out.tfevents.1498820159.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/SUM6F3/events.out.tfevents.1498668952.manobhav-Vostro-1550" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chat_ml/Data/tflearn_logs/W12O2X/events.out.tfevents.1499449466.manobhav-Vostro-1550" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/chatbotdata.xlsx" afterPath="$PROJECT_DIR$/chat_ml/Data/chatbotdata.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/count_vector.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/count_vector.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/logistic.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/logistic.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.data-00000-of-00001" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.data-00000-of-00001" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.index" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.meta" afterPath="$PROJECT_DIR$/chat_ml/Data/model.tflearn.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/tfidf.pkl" afterPath="$PROJECT_DIR$/chat_ml/Data/tfidf.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Analytics/graphs.py" afterPath="$PROJECT_DIR$/chat_ml/Analytics/graphs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/Data/processedchatdata.csv" afterPath="$PROJECT_DIR$/chat_ml/Data/processedchatdata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html" afterPath="$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,11 +55,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="updatedatacommand.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="updatedatacommand.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_ml/management/commands/updatedatacommand.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/analytics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crossfilter.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -171,7 +166,6 @@
         <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/training.html" />
         <option value="$PROJECT_DIR$/chat_ml/Analytics/crossfilter.html" />
         <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/realtime.csv" />
-        <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html" />
         <option value="$PROJECT_DIR$/chat_ml/urls.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/chat_ml/dataupdate.py" />
@@ -183,6 +177,7 @@
         <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/chatengine.html" />
         <option value="$PROJECT_DIR$/chat_ml/Analytics/graphs.py" />
         <option value="$PROJECT_DIR$/chat_ml/management/commands/updatedatacommand.py" />
+        <option value="$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html" />
       </list>
     </option>
   </component>
@@ -733,8 +728,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38187703" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -981,14 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChatBot/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1097,14 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1675">
-          <caret line="118" column="27" lean-forward="false" selection-start-line="118" selection-start-column="27" selection-end-line="118" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat_ml/Model/tokenize_stem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1161,6 +1141,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_ml/templates/chat_ml/crossfilter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>

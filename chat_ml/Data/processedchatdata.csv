@@ -20,184 +20,195 @@ location, where do you work,"We have offices in Noida, Banglore,Chennai and Pune
 location, what are the locations of your offices,"We have offices in Noida, Banglore,Chennai and Pune in India",locat offic
 markets/domain,what domains you work on,"We have clients in the domains of-
 
-    Aerospace,
-    Insurance and social,
-    Banking(Ask me more on this),
-    Defence,
-    Homeland Security,
-    Public Sector and Healthcare,
-    Telecommunications, media and entertainment,
-    Transport,
-    Retail,
-    Energy utilities.
+    1) Aerospace,
+    2) Insurance and social,
+    3) Banking(Ask me more on this),
+    4) Defence,
+    5) Homeland Security,
+    6) Public Sector and Healthcare,
+    7) Telecommunications, media and entertainment,
+    8) Transport,
+    9) Retail,
+    10) Energy utilities.
 
 ",domain work
 markets/domain, who are your clients,"We have clients in the domains of-
 
-    Aerospace,
-    Insurance and social,
-    Banking(Ask me more on this),
-    Defence,
-    Homeland Security,
-    Public Sector and Healthcare,
-    Telecommunications, media and entertainment,
-    Transport,
-    Retail,
-    Energy utilities.
+    1) Aerospace,
+    2) Insurance and social,
+    3) Banking(Ask me more on this),
+    4) Defence,
+    5) Homeland Security,
+    6) Public Sector and Healthcare,
+    7) Telecommunications, media and entertainment,
+    8) Transport,
+    9) Retail,
+    10) Energy utilities.
 
 ",who client
 markets/domain, what are your markets,"We have clients in the domains of-
 
-    Aerospace,
-    Insurance and social,
-    Banking(Ask me more on this),
-    Defence,
-    Homeland Security,
-    Public Sector and Healthcare,
-    Telecommunications, media and entertainment,
-    Transport,
-    Retail,
-    Energy utilities.
+    1) Aerospace,
+    2) Insurance and social,
+    3) Banking(Ask me more on this),
+    4) Defence,
+    5) Homeland Security,
+    6) Public Sector and Healthcare,
+    7) Telecommunications, media and entertainment,
+    8) Transport,
+    9) Retail,
+    10) Energy utilities.
 
 ",market
 markets/domain, areas of your work,"We have clients in the domains of-
 
-    Aerospace,
-    Insurance and social,
-    Banking(Ask me more on this),
-    Defence,
-    Homeland Security,
-    Public Sector and Healthcare,
-    Telecommunications, media and entertainment,
-    Transport,
-    Retail,
-    Energy utilities.
+    1) Aerospace,
+    2) Insurance and social,
+    3) Banking(Ask me more on this),
+    4) Defence,
+    5) Homeland Security,
+    6) Public Sector and Healthcare,
+    7) Telecommunications, media and entertainment,
+    8) Transport,
+    9) Retail,
+    10) Energy utilities.
 
 ",area work
 offerings,What services sopra steria offers,"Sopra steria offers services in -
 
-Social Business,
-Mobility,
-Big Data,
-Internet of Things,
-Smart Cities,
-Cloud,
-Cybersecurity,
-Enterprise Resource Planning (ERP),
-Banking Solutions.
+1) Social Business,
+2) Mobility,
+3) Big Data,
+4) Internet of Things,
+5) Smart Cities,
+6) Cloud,
+7) Cybersecurity,
+8) Enterprise Resource Planning (ERP),
+9) Banking Solutions.
 You can ask me more about any of the things listed above. I will be happy to help.",servic offer
 offerings, what is your work profile,"Sopra steria offers services in -
 
-Social Business,
-Mobility,
-Big Data,
-Internet of Things,
-Smart Cities,
-Cloud,
-Cybersecurity,
-Enterprise Resource Planning (ERP),
-Banking Solutions.
+1) Social Business,
+2) Mobility,
+3) Big Data,
+4) Internet of Things,
+5) Smart Cities,
+6) Cloud,
+7) Cybersecurity,
+8) Enterprise Resource Planning (ERP),
+9) Banking Solutions.
 You can ask me more about any of the things listed above. I will be happy to help.",work profil
 offerings, what are your offerings,"Sopra steria offers services in -
 
-Social Business,
-Mobility,
-Big Data,
-Internet of Things,
-Smart Cities,
-Cloud,
-Cybersecurity,
-Enterprise Resource Planning (ERP),
-Banking Solutions.
+1) Social Business,
+2) Mobility,
+3) Big Data,
+4) Internet of Things,
+5) Smart Cities,
+6) Cloud,
+7) Cybersecurity,
+8) Enterprise Resource Planning (ERP),
+9) Banking Solutions.
 You can ask me more about any of the things listed above. I will be happy to help.",offer
 application_management,What are application management services ,"We offer our clients the following:
 
  
 
-    Proximity: an extended network of service centres to be ever closer to our customers
-    Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops)
-    Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges
-    Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT)
-    Pay per use: flexible billing to prevent waste and minimise costs
-    Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs
-    Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing)
-    Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",applic manag servic
+    1) Proximity: an extended network of service centres to be ever closer to our customers, 
+    2) Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops), 
+    3) Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges, 
+    4) Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT), 
+    5) Pay per use: flexible billing to prevent waste and minimise costs, 
+    6)Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs, 
+    7) Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing), 
+    8) Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",applic manag servic
 application_management, what do you  offer in application management services,"We offer our clients the following:
 
  
 
-    Proximity: an extended network of service centres to be ever closer to our customers
-    Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops)
-    Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges
-    Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT)
-    Pay per use: flexible billing to prevent waste and minimise costs
-    Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs
-    Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing)
-    Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",offer applic manag servic
+    1) Proximity: an extended network of service centres to be ever closer to our customers, 
+    2) Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops), 
+    3) Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges, 
+    4) Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT), 
+    5) Pay per use: flexible billing to prevent waste and minimise costs, 
+    6)Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs, 
+    7) Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing), 
+    8) Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",offer applic manag servic
 application_management,Does sopra steria offer application management,"We offer our clients the following:
 
  
 
-    Proximity: an extended network of service centres to be ever closer to our customers
-    Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops)
-    Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges
-    Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT)
-    Pay per use: flexible billing to prevent waste and minimise costs
-    Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs
-    Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing)
-    Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",offer applic manag
+    1) Proximity: an extended network of service centres to be ever closer to our customers, 
+    2) Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops), 
+    3) Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges, 
+    4) Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT), 
+    5) Pay per use: flexible billing to prevent waste and minimise costs, 
+    6)Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs, 
+    7) Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing), 
+    8) Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",offer applic manag
 application_management, tell me about application management,"We offer our clients the following:
 
  
 
-    Proximity: an extended network of service centres to be ever closer to our customers
-    Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops)
-    Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges
-    Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT)
-    Pay per use: flexible billing to prevent waste and minimise costs
-    Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs
-    Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing)
-    Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",tell applic manag
+    1) Proximity: an extended network of service centres to be ever closer to our customers, 
+    2) Agility: a pragmatic approach that allows for short development cycles and regular, safe production runs (Devops), 
+    3) Commitment: technical and business KPIs (key performance indicators) aligned with your business challenges, 
+    4) Service quality: compliance with market standards (ISO, CMMI, ITIL, etc.) combined with a continuous improvement programme (Lean IT), 
+    5) Pay per use: flexible billing to prevent waste and minimise costs, 
+    6)Delivery: an integrated production model of Onshore/Nearshore/Offshore to optimise costs, 
+    7) Industrialisation: a service catalogue, method and industrial tools (Forge, Continuous Integration Platform, Testing), 
+    8) Business expertise: knowledge of diverse sectors enabling us to adapt to industry-specific challenges.",tell applic manag
 software,what are the softwares made by sopra steria,"
 Sopra Steria makes its specialized business expertise available to clients through Banking and finance, Human Resource, and Property Management application solutions.
 Our role: To build, together with you, high performance solutions in harmony with the development policy of your company. You will benefit from the state of the art in the area of information technologies, know-how, and expertise.
 Sopra Steria customizes and deploys its application solutions:
-    Sopra Banking Software for the banking and financial sector
-    Sopra HR Software  for Human Resources
-    A software suite for Property Management",softwar made
+    1) Sopra Banking Software for the banking and financial sector(Ask me more on this), 
+    2) Sopra HR Software  for Human Resources, 
+    3) A software suite for Property Management.",softwar made
 software, what are the products of sopra steria,"
 Sopra Steria makes its specialized business expertise available to clients through Banking and finance, Human Resource, and Property Management application solutions.
 Our role: To build, together with you, high performance solutions in harmony with the development policy of your company. You will benefit from the state of the art in the area of information technologies, know-how, and expertise.
 Sopra Steria customizes and deploys its application solutions:
-    Sopra Banking Software for the banking and financial sector
-    Sopra HR Software  for Human Resources
-    A software suite for Property Management",product
+    1) Sopra Banking Software for the banking and financial sector(Ask me more on this), 
+    2) Sopra HR Software  for Human Resources, 
+    3) A software suite for Property Management.",product
 software, Tell me about softwares,"
 Sopra Steria makes its specialized business expertise available to clients through Banking and finance, Human Resource, and Property Management application solutions.
 Our role: To build, together with you, high performance solutions in harmony with the development policy of your company. You will benefit from the state of the art in the area of information technologies, know-how, and expertise.
 Sopra Steria customizes and deploys its application solutions:
-    Sopra Banking Software for the banking and financial sector
-    Sopra HR Software  for Human Resources
-    A software suite for Property Management",tell softwar
+    1) Sopra Banking Software for the banking and financial sector(Ask me more on this), 
+    2) Sopra HR Software  for Human Resources, 
+    3) A software suite for Property Management.",tell softwar
 software,what does sopra steria make,"
 Sopra Steria makes its specialized business expertise available to clients through Banking and finance, Human Resource, and Property Management application solutions.
 Our role: To build, together with you, high performance solutions in harmony with the development policy of your company. You will benefit from the state of the art in the area of information technologies, know-how, and expertise.
 Sopra Steria customizes and deploys its application solutions:
-    Sopra Banking Software for the banking and financial sector
-    Sopra HR Software  for Human Resources
-    A software suite for Property Management",make
-solutions,What are the solutions you provide,"We provide various solutions catering to your business needs- Consulting, Testing, Software, Applications Management, Business Process Services
+    1) Sopra Banking Software for the banking and financial sector(Ask me more on this), 
+    2) Sopra HR Software  for Human Resources, 
+    3) A software suite for Property Management.",make
+software,what are the softwares you offer,"
+Sopra Steria makes its specialized business expertise available to clients through Banking and finance, Human Resource, and Property Management application solutions.
+Our role: To build, together with you, high performance solutions in harmony with the development policy of your company. You will benefit from the state of the art in the area of information technologies, know-how, and expertise.
+Sopra Steria customizes and deploys its application solutions:
+    1) Sopra Banking Software for the banking and financial sector(Ask me more on this), 
+    2) Sopra HR Software  for Human Resources, 
+    3) A software suite for Property Management.",softwar offer
+solutions,What are the solutions you provide,"We provide various solutions catering to your business needs- 1) Consulting, 2) Testing, 3) Software, 4) Applications Management, 5) Business Process Services.
 You can ask me more about the sevices listed above.
 In addition to this we also provide-
 PLM-CIMPA Infrastructure Management and  Systems integration",solut provid
-solutions, how can you help me in my business,"We provide various solutions catering to your business needs- Consulting, Testing, Software, Applications Management, Business Process Services
+solutions, how can you help me in my business,"We provide various solutions catering to your business needs- 1) Consulting, 2) Testing, 3) Software, 4) Applications Management, 5) Business Process Services.
 You can ask me more about the sevices listed above.
 In addition to this we also provide-
 PLM-CIMPA Infrastructure Management and  Systems integration",help busi
-solutions, what do you provide,"We provide various solutions catering to your business needs- Consulting, Testing, Software, Applications Management, Business Process Services
+solutions, what do you provide,"We provide various solutions catering to your business needs- 1) Consulting, 2) Testing, 3) Software, 4) Applications Management, 5) Business Process Services.
 You can ask me more about the sevices listed above.
 In addition to this we also provide-
 PLM-CIMPA Infrastructure Management and  Systems integration",provid
+solutions, what are the solutions you offer,"We provide various solutions catering to your business needs- 1) Consulting, 2) Testing, 3) Software, 4) Applications Management, 5) Business Process Services.
+You can ask me more about the sevices listed above.
+In addition to this we also provide-
+PLM-CIMPA Infrastructure Management and  Systems integration",solut offer
 carrier,how can i get a job at sopra steria,You can ask your queriers regarding carrier opening at sopra steria from my friend at - http://sopra-chatbot.herokuapp.com/,get job
 carrier, current openings,You can ask your queriers regarding carrier opening at sopra steria from my friend at - http://sopra-chatbot.herokuapp.com/,current open
 carrier, carrier,You can ask your queriers regarding carrier opening at sopra steria from my friend at - http://sopra-chatbot.herokuapp.com/,carrier
@@ -425,30 +436,30 @@ consulting, i need consultation can you help me,"Sopra Steria Consulting is the 
 We also help our clients look for the best ways in which to use digital technology to reach sustainable growth in their operational, economic and social performance.",need consult help
 testing,What testing services sopra steria offers,"With RightTesting®, Sopra Steria, one of the leaders in the testing market, offers a comprehensive, three-phase approach:
 
-    Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
-    Transformation Services: implementing the roadmap as part of a transformation process that includes change management
-    Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
+    1) Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
+    2) Transformation Services: implementing the roadmap as part of a transformation process that includes change management
+    3) Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
 
 Our all-inclusive Testing and Quality Assurance procedure relies on a pragmatic approach and a tool-based methodology with technology partners. It is founded on risk-based testing (RBT). Guided by industrial standards (e.g. TMMi3 and ISTQB certification) and decades of experience, we assess testing operations and transform them if necessary.",test servic offer
 testing, tell me about testing division,"With RightTesting®, Sopra Steria, one of the leaders in the testing market, offers a comprehensive, three-phase approach:
 
-    Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
-    Transformation Services: implementing the roadmap as part of a transformation process that includes change management
-    Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
+    1) Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
+    2) Transformation Services: implementing the roadmap as part of a transformation process that includes change management
+    3) Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
 
 Our all-inclusive Testing and Quality Assurance procedure relies on a pragmatic approach and a tool-based methodology with technology partners. It is founded on risk-based testing (RBT). Guided by industrial standards (e.g. TMMi3 and ISTQB certification) and decades of experience, we assess testing operations and transform them if necessary.",tell test divis
 testing, what testing stategy sopra steria follows,"With RightTesting®, Sopra Steria, one of the leaders in the testing market, offers a comprehensive, three-phase approach:
 
-    Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
-    Transformation Services: implementing the roadmap as part of a transformation process that includes change management
-    Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
+    1) Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
+    2) Transformation Services: implementing the roadmap as part of a transformation process that includes change management
+    3) Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
 
 Our all-inclusive Testing and Quality Assurance procedure relies on a pragmatic approach and a tool-based methodology with technology partners. It is founded on risk-based testing (RBT). Guided by industrial standards (e.g. TMMi3 and ISTQB certification) and decades of experience, we assess testing operations and transform them if necessary.",test stategi follow
 testing, quality assuarance services,"With RightTesting®, Sopra Steria, one of the leaders in the testing market, offers a comprehensive, three-phase approach:
 
-    Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
-    Transformation Services: implementing the roadmap as part of a transformation process that includes change management
-    Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
+    1) Consulting Services: collaborating to define a testing strategy adapted to your specific challenges, and backed by a business case and roadmap to facilitate decision-making and optimise your investments
+    2) Transformation Services: implementing the roadmap as part of a transformation process that includes change management
+    3) Managed Services: producing consistent services, on your premises or in a pooled expertise centre, based on processes that are industrialised through an ongoing improvement approach.
 
 Our all-inclusive Testing and Quality Assurance procedure relies on a pragmatic approach and a tool-based methodology with technology partners. It is founded on risk-based testing (RBT). Guided by industrial standards (e.g. TMMi3 and ISTQB certification) and decades of experience, we assess testing operations and transform them if necessary.",qualiti assuar servic
 greeting,hello,"Hi, Ask me anything you want about Sopra Steria. Ill try my best to give you correct ans.",hello
@@ -457,39 +468,39 @@ greeting, hi,"Hi, Ask me anything you want about Sopra Steria. Ill try my best t
 greeting, hey,"Hi, Ask me anything you want about Sopra Steria. Ill try my best to give you correct ans.",hey
 social_business,what do you do  in social business,"Sopra Steria designs and deploys corporate social networks in response to specific issues:
 
-    Internal communication: to inform and strengthen the sense of belonging to the company
-    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.)
-    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners
-    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue
-    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders
-    Management of internal communities: fostering exchange and stimulating innovation within the company
+    Internal communication: to inform and strengthen the sense of belonging to the company, 
+    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.), 
+    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners, 
+    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue, 
+    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders, 
+    Management of internal communities: fostering exchange and stimulating innovation within the company, 
     Social business: organising exchanges with customers and partners to design and improve products and services.",social busi
 social_business, what is social business,"Sopra Steria designs and deploys corporate social networks in response to specific issues:
 
-    Internal communication: to inform and strengthen the sense of belonging to the company
-    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.)
-    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners
-    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue
-    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders
-    Management of internal communities: fostering exchange and stimulating innovation within the company
+    Internal communication: to inform and strengthen the sense of belonging to the company, 
+    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.), 
+    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners, 
+    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue, 
+    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders, 
+    Management of internal communities: fostering exchange and stimulating innovation within the company, 
     Social business: organising exchanges with customers and partners to design and improve products and services.",social busi
 social_business, social networks,"Sopra Steria designs and deploys corporate social networks in response to specific issues:
 
-    Internal communication: to inform and strengthen the sense of belonging to the company
-    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.)
-    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners
-    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue
-    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders
-    Management of internal communities: fostering exchange and stimulating innovation within the company
+    Internal communication: to inform and strengthen the sense of belonging to the company, 
+    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.), 
+    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners, 
+    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue, 
+    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders, 
+    Management of internal communities: fostering exchange and stimulating innovation within the company, 
     Social business: organising exchanges with customers and partners to design and improve products and services.",social network
 social_business, social information,"Sopra Steria designs and deploys corporate social networks in response to specific issues:
 
-    Internal communication: to inform and strengthen the sense of belonging to the company
-    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.)
-    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners
-    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue
-    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders
-    Management of internal communities: fostering exchange and stimulating innovation within the company
+    Internal communication: to inform and strengthen the sense of belonging to the company, 
+    Employee services: centralising the company's service offering to employees (Human Resources Directors HRD, ISD, Social Services, etc.), 
+    Collaborative project management: managing complex projects involving many stakeholders spread across different sites, or mobilising external partners, 
+    Knowledge management: preserving corporate knowledge at a time when an ageing (and retiring) population is becoming a topical issue, 
+    Management of information capital: accessing and sharing unstructured information produced by the company and its stakeholders, 
+    Management of internal communities: fostering exchange and stimulating innovation within the company, 
     Social business: organising exchanges with customers and partners to design and improve products and services.",social inform
 mobility,What do you do in mobility,"The Sopra Steria Mobility offer is based around the entire Mobile Experience life cycle: innovation, strategy, ergonomics and styling, business-line support, integration of mobile software packages, design, development, deployment, maintenance and supervision of applications. Optimisation of mobile working process: M-Conseiller, Bring Your Own Device, Choose Your Own Device and Corporate-Owned Personally-Enabled
 Mobile management of on-site interventions: GPS, mobile analysis tools, access to corporate reference guidelines.",mobil
@@ -549,92 +560,82 @@ big_data, how can big data  help me.,"The Sopra Steria Big Data offer covers two
 ",big data help
 iot,how can internet of things help me,"For Sopra Steria, the Internet of Things is the missing link between the real and virtual worlds and a key ingredient in its clients' digital transformation. Sopra Steria thereby supports its clients all the way along the IoT value chain as it sets up new business models: innovation, consulting, development, integration, mass production, and maintaining operational conditions, notably via two strategies:
 
-    A comprehensive offer from design to mass production, including support for training and transformation
-    An integrator angel approach within dynamic environments (start-ups, large companies, suppliers of technological building bricks, software publishers, research centres, schools and universities) to achieve collective objectives.
+    1) A comprehensive offer from design to mass production, including support for training and transformation,
+    2) An integrator angel approach within dynamic environments (start-ups, large companies, suppliers of technological building bricks, software publishers, research centres, schools and universities) to achieve collective objectives.
 ",internet thing help
 iot, what is the use of IOT,"For Sopra Steria, the Internet of Things is the missing link between the real and virtual worlds and a key ingredient in its clients' digital transformation. Sopra Steria thereby supports its clients all the way along the IoT value chain as it sets up new business models: innovation, consulting, development, integration, mass production, and maintaining operational conditions, notably via two strategies:
 
-    A comprehensive offer from design to mass production, including support for training and transformation
-    An integrator angel approach within dynamic environments (start-ups, large companies, suppliers of technological building bricks, software publishers, research centres, schools and universities) to achieve collective objectives.
+    1) A comprehensive offer from design to mass production, including support for training and transformation,
+    2) An integrator angel approach within dynamic environments (start-ups, large companies, suppliers of technological building bricks, software publishers, research centres, schools and universities) to achieve collective objectives.
 ",use iot
 iot, do you have experience in internet of things,"For Sopra Steria, the Internet of Things is the missing link between the real and virtual worlds and a key ingredient in its clients' digital transformation. Sopra Steria thereby supports its clients all the way along the IoT value chain as it sets up new business models: innovation, consulting, development, integration, mass production, and maintaining operational conditions, notably via two strategies:
 
-    A comprehensive offer from design to mass production, including support for training and transformation
-    An integrator angel approach within dynamic environments (start-ups, large companies, suppliers of technological building bricks, software publishers, research centres, schools and universities) to achieve collective objectives.
+    1) A comprehensive offer from design to mass production, including support for training and transformation,
+    2) An integrator angel approach within dynamic environments (start-ups, large companies, suppliers of technological building bricks, software publishers, research centres, schools and universities) to achieve collective objectives.
 ",experi internet thing
 cybersecurity,cybersecurity,"Sopra Steria helps organisations to excel in cyber security and instil digital trust to protect their sensitive information and accelerate their digital development.
 
 With more than 700 experts in security across Europe and in our cyber-security centres, we operate a world-class human, technological and industrial strike force.
 Our overall response is organised around the entire security life-cycle:
 
-    Consulting: governance and risk management, audits & compliance, activity recovery & continuity
-    Integration of security solutions aligned with business-line processes: digital Identity and Access Management (IAM), Public Key Infrastructure (PKI), Data Loss Protection (DLP), Cloud Security and mobility
-    Managed security services: ranging from Security Operations Centre (SOC)-type operations to the detection of Advanced Persistent Threats (APT) and crisis management, based on a Managed Security Service Provider (MSSP) model.
+    1) Consulting: governance and risk management, audits & compliance, activity recovery & continuity,
+    2) Integration of security solutions aligned with business-line processes: digital Identity and Access Management (IAM), Public Key, Infrastructure (PKI), Data Loss Protection (DLP), Cloud Security and mobility,
+    3) Managed security services: ranging from Security Operations Centre (SOC)-type operations to the detection of Advanced Persistent Threats (APT) and crisis management, based on a Managed Security Service Provider (MSSP) model.
 ",cybersecur
 cybersecurity, cyber security,"Sopra Steria helps organisations to excel in cyber security and instil digital trust to protect their sensitive information and accelerate their digital development.
 
 With more than 700 experts in security across Europe and in our cyber-security centres, we operate a world-class human, technological and industrial strike force.
 Our overall response is organised around the entire security life-cycle:
 
-    Consulting: governance and risk management, audits & compliance, activity recovery & continuity
-    Integration of security solutions aligned with business-line processes: digital Identity and Access Management (IAM), Public Key Infrastructure (PKI), Data Loss Protection (DLP), Cloud Security and mobility
-    Managed security services: ranging from Security Operations Centre (SOC)-type operations to the detection of Advanced Persistent Threats (APT) and crisis management, based on a Managed Security Service Provider (MSSP) model.
+    1) Consulting: governance and risk management, audits & compliance, activity recovery & continuity,
+    2) Integration of security solutions aligned with business-line processes: digital Identity and Access Management (IAM), Public Key, Infrastructure (PKI), Data Loss Protection (DLP), Cloud Security and mobility,
+    3) Managed security services: ranging from Security Operations Centre (SOC)-type operations to the detection of Advanced Persistent Threats (APT) and crisis management, based on a Managed Security Service Provider (MSSP) model.
 ",cyber secur
 cybersecurity, what are the services you provide under cyber security,"Sopra Steria helps organisations to excel in cyber security and instil digital trust to protect their sensitive information and accelerate their digital development.
 
 With more than 700 experts in security across Europe and in our cyber-security centres, we operate a world-class human, technological and industrial strike force.
 Our overall response is organised around the entire security life-cycle:
 
-    Consulting: governance and risk management, audits & compliance, activity recovery & continuity
-    Integration of security solutions aligned with business-line processes: digital Identity and Access Management (IAM), Public Key Infrastructure (PKI), Data Loss Protection (DLP), Cloud Security and mobility
-    Managed security services: ranging from Security Operations Centre (SOC)-type operations to the detection of Advanced Persistent Threats (APT) and crisis management, based on a Managed Security Service Provider (MSSP) model.
+    1) Consulting: governance and risk management, audits & compliance, activity recovery & continuity,
+    2) Integration of security solutions aligned with business-line processes: digital Identity and Access Management (IAM), Public Key, Infrastructure (PKI), Data Loss Protection (DLP), Cloud Security and mobility,
+    3) Managed security services: ranging from Security Operations Centre (SOC)-type operations to the detection of Advanced Persistent Threats (APT) and crisis management, based on a Managed Security Service Provider (MSSP) model.
 ",servic provid cyber secur
 erp,erp,"At the heart of the company's administrative and financial management, your ERP must continuously adapt to new management challenges:
 
-    Improved process efficiency 
-    The company's development in response to market changes
-    Regulatory requirements; Reduced cost of ownership
-    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM) Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
+    Improved process efficiency, 
+    The company's development in response to market changes, 
+    Regulatory requirements; Reduced cost of ownership, 
+    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM),  Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
 
  
 
 Sopra Steria offers end-to-end ERP solutions ranging from consulting to Business Process Services via systems integration and ongoing maintenance of ERP systems",erp
 erp, enterprise resource planning,"At the heart of the company's administrative and financial management, your ERP must continuously adapt to new management challenges:
 
-    Improved process efficiency 
-    The company's development in response to market changes
-    Regulatory requirements; Reduced cost of ownership
-    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM) Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
+    Improved process efficiency, 
+    The company's development in response to market changes, 
+    Regulatory requirements; Reduced cost of ownership, 
+    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM),  Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
 
  
 
 Sopra Steria offers end-to-end ERP solutions ranging from consulting to Business Process Services via systems integration and ongoing maintenance of ERP systems",enterpris resourc plan
 erp, i need erp consulting,"At the heart of the company's administrative and financial management, your ERP must continuously adapt to new management challenges:
 
-    Improved process efficiency 
-    The company's development in response to market changes
-    Regulatory requirements; Reduced cost of ownership
-    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM) Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
+    Improved process efficiency, 
+    The company's development in response to market changes, 
+    Regulatory requirements; Reduced cost of ownership, 
+    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM),  Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
 
  
 
 Sopra Steria offers end-to-end ERP solutions ranging from consulting to Business Process Services via systems integration and ongoing maintenance of ERP systems",need erp consult
-erp, what are the erp solutions you offer,"At the heart of the company's administrative and financial management, your ERP must continuously adapt to new management challenges:
-
-    Improved process efficiency 
-    The company's development in response to market changes
-    Regulatory requirements; Reduced cost of ownership
-    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM) Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
-
- 
-
-Sopra Steria offers end-to-end ERP solutions ranging from consulting to Business Process Services via systems integration and ongoing maintenance of ERP systems",erp solut offer
 erp,how can you help me with enterprise resource planning,"At the heart of the company's administrative and financial management, your ERP must continuously adapt to new management challenges:
 
-    Improved process efficiency 
-    The company's development in response to market changes
-    Regulatory requirements; Reduced cost of ownership
-    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM) Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
+    Improved process efficiency, 
+    The company's development in response to market changes, 
+    Regulatory requirements; Reduced cost of ownership, 
+    technological innovation and opening up to other functionalities in Customer Relationship Management (CRM),  Supply Chain management (SCM), SCM, Business Intelligence (BI), Human Resources (HR), Product Lifecycle Management (PLM), etc. 
 
  
 
@@ -643,29 +644,29 @@ smart_city,what is smart city,"Sopra Steria offers a full range of services, inc
 
 This range of services is based on four main subject areas:
 
-    energy management: Smart Homes, Smart Buildings, Smart Grids, participation in consortiums formed to build eco-neighbourhoods, etc.
-    urban mobility: traffic management and creation of transport plans, monitoring of equipment, traveller journey and information, mobile ticketing, NFC contactless payment, etc. 
-    citizen services: participative platforms, reviewing of public services and local retail outlets, Open Data, transformation of an information system into an open service-and-data platform, partnership with Fab Labs and Living Labs, etc.
-    economic development: strategic consulting and definition of a digital road map, situation analysis (state of the art, benchmark, audits), new business models, co-innovation, consultation with start-ups, etc.
+    1) energy management: Smart Homes, Smart Buildings, Smart Grids, participation in consortiums formed to build eco-neighbourhoods, etc.
+    2) urban mobility: traffic management and creation of transport plans, monitoring of equipment, traveller journey and information, mobile ticketing, NFC contactless payment, etc. 
+    3) citizen services: participative platforms, reviewing of public services and local retail outlets, Open Data, transformation of an information system into an open service-and-data platform, partnership with Fab Labs and Living Labs, etc.
+    4) economic development: strategic consulting and definition of a digital road map, situation analysis (state of the art, benchmark, audits), new business models, co-innovation, consultation with start-ups, etc.
 ",smart citi
 smart_city, smart city,"Sopra Steria offers a full range of services, including: consulting, systems integration, software solutions and managed services.
 
 This range of services is based on four main subject areas:
 
-    energy management: Smart Homes, Smart Buildings, Smart Grids, participation in consortiums formed to build eco-neighbourhoods, etc.
-    urban mobility: traffic management and creation of transport plans, monitoring of equipment, traveller journey and information, mobile ticketing, NFC contactless payment, etc. 
-    citizen services: participative platforms, reviewing of public services and local retail outlets, Open Data, transformation of an information system into an open service-and-data platform, partnership with Fab Labs and Living Labs, etc.
-    economic development: strategic consulting and definition of a digital road map, situation analysis (state of the art, benchmark, audits), new business models, co-innovation, consultation with start-ups, etc.
+    1) energy management: Smart Homes, Smart Buildings, Smart Grids, participation in consortiums formed to build eco-neighbourhoods, etc.
+    2) urban mobility: traffic management and creation of transport plans, monitoring of equipment, traveller journey and information, mobile ticketing, NFC contactless payment, etc. 
+    3) citizen services: participative platforms, reviewing of public services and local retail outlets, Open Data, transformation of an information system into an open service-and-data platform, partnership with Fab Labs and Living Labs, etc.
+    4) economic development: strategic consulting and definition of a digital road map, situation analysis (state of the art, benchmark, audits), new business models, co-innovation, consultation with start-ups, etc.
 ",smart citi
 cloud,do you provide cloud services,"Sopra Steria, with its subsidiary Beamap (a consulting firm specialising in Cloud), supports and handles this major digital transformation for clients.
 
 
 Our end-to-end secure Cloud services focus on five aspects:
 
-    Advisory and Enablement: feasibility study; Cloud strategy; “Cloud First” policy
-    Transformation and Build: standardisation of infrastructures; Cloud architecture; private or hybrid Cloud implementation (IaaS, PaaS)
-    Cloud Service Broker: personalisation, integration and aggregation of Cloud services in the company’s IS
-    Business Solutions: rollout and integration of Cloud solutions available on the market; Sopra Steria business solutions in Software as a Service (SaaS) mode
+    Advisory and Enablement: feasibility study; Cloud strategy; “Cloud First” policy, 
+    Transformation and Build: standardisation of infrastructures; Cloud architecture; private or hybrid Cloud implementation (IaaS, PaaS), 
+    Cloud Service Broker: personalisation, integration and aggregation of Cloud services in the company’s IS,
+    Business Solutions: rollout and integration of Cloud solutions available on the market; Sopra Steria business solutions in Software as a Service (SaaS) mode, 
     Business Process as a Service (BPaaS).
 ",provid cloud servic
 cloud, what is beamap,"Sopra Steria, with its subsidiary Beamap (a consulting firm specialising in Cloud), supports and handles this major digital transformation for clients.
@@ -673,10 +674,10 @@ cloud, what is beamap,"Sopra Steria, with its subsidiary Beamap (a consulting fi
 
 Our end-to-end secure Cloud services focus on five aspects:
 
-    Advisory and Enablement: feasibility study; Cloud strategy; “Cloud First” policy
-    Transformation and Build: standardisation of infrastructures; Cloud architecture; private or hybrid Cloud implementation (IaaS, PaaS)
-    Cloud Service Broker: personalisation, integration and aggregation of Cloud services in the company’s IS
-    Business Solutions: rollout and integration of Cloud solutions available on the market; Sopra Steria business solutions in Software as a Service (SaaS) mode
+    Advisory and Enablement: feasibility study; Cloud strategy; “Cloud First” policy, 
+    Transformation and Build: standardisation of infrastructures; Cloud architecture; private or hybrid Cloud implementation (IaaS, PaaS), 
+    Cloud Service Broker: personalisation, integration and aggregation of Cloud services in the company’s IS,
+    Business Solutions: rollout and integration of Cloud solutions available on the market; Sopra Steria business solutions in Software as a Service (SaaS) mode, 
     Business Process as a Service (BPaaS).
 ",beamap
 cloud, cloud,"Sopra Steria, with its subsidiary Beamap (a consulting firm specialising in Cloud), supports and handles this major digital transformation for clients.
@@ -684,10 +685,10 @@ cloud, cloud,"Sopra Steria, with its subsidiary Beamap (a consulting firm specia
 
 Our end-to-end secure Cloud services focus on five aspects:
 
-    Advisory and Enablement: feasibility study; Cloud strategy; “Cloud First” policy
-    Transformation and Build: standardisation of infrastructures; Cloud architecture; private or hybrid Cloud implementation (IaaS, PaaS)
-    Cloud Service Broker: personalisation, integration and aggregation of Cloud services in the company’s IS
-    Business Solutions: rollout and integration of Cloud solutions available on the market; Sopra Steria business solutions in Software as a Service (SaaS) mode
+    Advisory and Enablement: feasibility study; Cloud strategy; “Cloud First” policy, 
+    Transformation and Build: standardisation of infrastructures; Cloud architecture; private or hybrid Cloud implementation (IaaS, PaaS), 
+    Cloud Service Broker: personalisation, integration and aggregation of Cloud services in the company’s IS,
+    Business Solutions: rollout and integration of Cloud solutions available on the market; Sopra Steria business solutions in Software as a Service (SaaS) mode, 
     Business Process as a Service (BPaaS).
 ",cloud
 banking,what is sopra banking,"Sopra Banking Software, a subsidiary of Sopra Steria, provides global solutions including software, systems integration, support, and associated consulting services.

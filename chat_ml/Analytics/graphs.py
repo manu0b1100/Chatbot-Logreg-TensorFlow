@@ -6,8 +6,11 @@ from ChatBot.settings import *
 def initialise():
     if(DATABASES['default']['ENGINE']=='django.db.backends.sqlite3'):
         engine = sqlalchemy.create_engine('sqlite:////home/manobhav/PycharmProjects/ChatBot/db.sqlite3')
+        print("local")
 
     else:
+        print("heroku")
+
         user = DATABASES['default']['USER']
         password = DATABASES['default']['PASSWORD']
         database_name = DATABASES['default']['NAME']

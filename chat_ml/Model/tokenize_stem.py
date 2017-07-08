@@ -8,6 +8,8 @@ stopwords.add('sopra')
 stopwords.add('steria')
 stopwords.remove('when')
 stopwords.remove('who')
+stopwords.remove('where')
+stopwords.remove('about')
 def stem_tokens(tokens):
     stemmer = PorterStemmer()
     stemmed = []

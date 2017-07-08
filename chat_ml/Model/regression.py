@@ -15,13 +15,24 @@ class Lregression:
     def myfunc(self,q,key):
         cleanQuery=self.tfidf.transform([clean(q)])
         res=self.le.inverse_transform(self.logreg.predict(cleanQuery))
-        uq.addQuery(q,res[0],self.logreg.predict_proba(cleanQuery)[0].max(),key)
-        # print(self.logreg.predict_proba(cleanQuery)[0].max())
-        return self.chatdata[self.chatdata['Intent']==res[0]].iloc[0].answer
+        proba=self.logreg.predict_proba(cleanQuery)[0].max()
+        if proba<0.50:
+            res[0]='undefined'
+
+        if q in ['sopra','steria','sopra steria']:
+            res[0]='about'
+
+        uq.addQuery(q, res[0], proba, key,'logreg')
+        return self.chatdata[self.chatdata['Intent'] == res[0]].iloc[0].answer
+
+
+
+
     def helpfunc(self):
         l=list(self.le.classes_)
         l.remove('same')
         l.remove('greeting')
+        l.remove('undefined')
         s="You can ask me about- "+", ".join([ele.replace('_'," ").title() for ele in l])
         return s
 

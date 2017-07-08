@@ -24,18 +24,20 @@ def home(request):
             ans=lr.helpfunc()
         else:
             ans = lr.myfunc(q, request.session['key'])
-
-
-
         return HttpResponse(ans)
 
     return render(request,'chat_ml/chatengine.html',{'name':'manobhav'})
 
 
 def tensorflow(request):
+    if 'key' not in request.session:
+        request.session['key'] = ''.join(choice(ascii_uppercase) for i in range(10))
     if request.is_ajax():
         q=request.POST['query']
-        ans=tensor.getResult(q)
+        if (q == 'help'):
+            ans = lr.helpfunc()
+        else:
+            ans=tensor.getResult(q,request.session['key'])
         return HttpResponse(ans)
 
     return render(request,'chat_ml/chatengine.html',{'name':'manobhav'})

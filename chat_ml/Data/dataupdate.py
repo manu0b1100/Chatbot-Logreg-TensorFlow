@@ -21,6 +21,8 @@ def preprocessDataMaster():
     chatdata = pd.read_excel("chat_ml/Data/chatbotdata.xlsx", columns=['intent', 'question', 'answer'])
     chatdata = processdata(chatdata)
     chatdata['corpus'] = cleanAndMerge(chatdata['question'])
+    # for i in range(0,3):
+    #     chatdata['corpus'][i]=chatdata['question'][i]
     chatdata.to_csv('chat_ml/Data/processedchatdata.csv', index=False)
 
 def LogRegTraining():

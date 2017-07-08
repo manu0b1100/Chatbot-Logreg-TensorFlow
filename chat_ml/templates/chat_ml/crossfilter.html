@@ -18,9 +18,7 @@
 </head>
 <body>
     <script>
-        $(document).ready(function () {
-            var data={{ data|safe }};
-            var mydata=crossfilter({{ data|safe }});
+        function Intent(mydata,data) {
             var xdimension=mydata.dimension(function (d) {
             return d.pclass;
 
@@ -29,9 +27,9 @@
             var ygroup=xdimension.group().reduceCount();
             console.log(ygroup.top(2)[1].value);
             console.log(ygroup.top(2)[1].key);
-            var barchart=dc.rowChart('#barChart');
+            var rowchart=dc.rowChart('#rowChartIntent');
 
-            barchart
+            rowchart
                 .width(1300)
                 .height(480)
                 .elasticX(true)
@@ -39,6 +37,52 @@
                 .dimension(xdimension)
                 .group(ygroup);
 
+
+        }
+        function Session(mydata,data) {
+
+            var xdimension=mydata.dimension(function (d) {
+            return d.session;
+
+            });
+            console.log(mydata.size());
+            var ygroup=xdimension.group().reduceCount();
+            var rowchartS=dc.rowChart('#rowChartSession');
+
+            rowchartS
+                .width(1300)
+                .height(480)
+                .elasticX(true)
+                .x(d3.scale.ordinal().domain(data.map(function (d) {return d.session; })))
+                .dimension(xdimension)
+                .group(ygroup);
+
+        }
+        function PieChart(mydata) {
+            var xdimension=mydata.dimension(function (d) {
+            return d.backend;
+
+            });
+            var ygroup=xdimension.group().reduceCount();
+
+            var chart=dc.pieChart('#PieChart');
+            chart
+                .width(768)
+                .height(480)
+                .slicesCap(4)
+                .innerRadius(100)
+                .dimension(xdimension)
+                .group(ygroup)
+                .colors(d3.scale.ordinal().range(['#2510e0','#e01111']))
+
+
+
+        }
+        function DataTable(mydata) {
+            var xdimension=mydata.dimension(function (d) {
+            return d.pclass;
+
+            });
             var datatable   = dc.dataTable("#dc-data-table");
 
             datatable
@@ -49,66 +93,29 @@
                     function(d) {return d.pclass;},
                     function(d) {return d.query;},
                     function(d) {return d.prob;},
-                    function(d) {return d.session;}
+                    function(d) {return d.session;},
+                    function (d) {return d.backend;}
                 ]);
 
+        }
+        $(document).ready(function () {
+            var data={{ data|safe }};
+            var mydata=crossfilter({{ data|safe }});
+            Intent(mydata,data);
+            Session(mydata,data);
+            DataTable(mydata);
+            PieChart(mydata);
             dc.renderAll();
-
-
-
-
-
-
-{#            d3.csv("processedchatdata.csv",function (data) {#}
-{#            console.log(data);#}
-{#            var mydata=crossfilter(data);#}
-{#            var xdimension=mydata.dimension(function (d) {#}
-{#            return d.Intent;#}
-{##}
-{#            });#}
-{#            console.log(mydata.size());#}
-{#            var ygroup=xdimension.group().reduceCount();#}
-{#            console.log(ygroup.top(2)[1].value);#}
-{#            console.log(ygroup.top(2)[1].key);#}
-{#            var barchart=dc.rowChart('#barChart');#}
-{##}
-{#            barchart#}
-{#                .width(1300)#}
-{#                .height(480)#}
-{#                .elasticX(true)#}
-{#                .x(d3.scale.ordinal().domain(data.map(function (d) {return d.Intent; })))#}
-{#                .dimension(xdimension)#}
-{#                .group(ygroup);#}
-{##}
-{#            var datatable   = dc.dataTable("#dc-data-table");#}
-{##}
-{#            datatable#}
-{#                .dimension(xdimension)#}
-{#                .group(function(d) {return d.Intent;})#}
-{#                // dynamic columns creation using an array of closures#}
-{#                .columns([#}
-{#                    function(d) {return d.Intent;},#}
-{#                    function(d) {return d.question;},#}
-{#                    function(d) {return d.answer;},#}
-{#                ]);#}
-{##}
-{#            dc.renderAll();#}
-{##}
-{##}
-{#        });#}
 
         });
 
-
-
-
-
-
-
-
     </script>
 
-<div id="barChart"></div>
+<div id="rowChartIntent"></div>
+<div id="rowChartSession"></div>
+<div id="PieChart"></div>
+
+
 <div style='clear:both;'>
 		<table id="dc-data-table">
 			<thead>

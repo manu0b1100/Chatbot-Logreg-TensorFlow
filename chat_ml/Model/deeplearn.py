@@ -27,17 +27,19 @@ class tf:
         prediction = self.model.predict(self.cv.transform([clean(query)]).toarray())
         pclass = self.cv1.get_feature_names()[prediction.argmax()]
 
-        if prediction.max()<0.50:
+        if prediction.max()<0.40:
             pclass='undefined'
-
-        if q in ['sopra','steria','sopra steria']:
-            pclass='about'
 
         uq.addQuery(q, pclass, prediction.max(), key,'tensor')
 
         return self.chatdata[self.chatdata['Intent']==pclass].iloc[0].answer
 
 
-
 tensor=tf()
+
+def test(q,key):
+    return tensor.getResult(q, key)
+
+
+
 

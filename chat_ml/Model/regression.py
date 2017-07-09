@@ -16,11 +16,8 @@ class Lregression:
         cleanQuery=self.tfidf.transform([clean(q)])
         res=self.le.inverse_transform(self.logreg.predict(cleanQuery))
         proba=self.logreg.predict_proba(cleanQuery)[0].max()
-        if proba<0.50:
+        if proba<0.40:
             res[0]='undefined'
-
-        if q in ['sopra','steria','sopra steria']:
-            res[0]='about'
 
         uq.addQuery(q, res[0], proba, key,'logreg')
         return self.chatdata[self.chatdata['Intent'] == res[0]].iloc[0].answer

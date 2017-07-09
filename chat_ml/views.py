@@ -1,11 +1,7 @@
 from string import ascii_uppercase
-
 from django.shortcuts import render,HttpResponse,render_to_response
-from .Model.deeplearn import *
-from .Model.regression import *
+from .Model.regression import lr
 from random import choice
-from .Analytics.graphs import *
-from .models import *
 
 
 
@@ -30,6 +26,7 @@ def home(request):
 
 
 def tensorflow(request):
+    from .Model.deeplearn import test
     if 'key' not in request.session:
         request.session['key'] = ''.join(choice(ascii_uppercase) for i in range(10))
     if request.is_ajax():
@@ -37,12 +34,13 @@ def tensorflow(request):
         if (q == 'help'):
             ans = lr.helpfunc()
         else:
-            ans=tensor.getResult(q,request.session['key'])
+            ans=test(q,request.session['key'])
         return HttpResponse(ans)
 
     return render(request,'chat_ml/chatengine.html',{'name':'manobhav'})
 
 def analytics(request):
+    from .Analytics.graphs import initialise
 
     return render(request,'chat_ml/crossfilter.html',{'data':initialise()})
 

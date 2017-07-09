@@ -27,7 +27,7 @@ def preprocessDataMaster():
 
 def LogRegTraining():
     chatdata = pd.read_csv("chat_ml/Data/processedchatdata.csv", converters={'corpus': str})
-    tfidf = TfidfVectorizer(ngram_range=(1, 2))
+    tfidf = TfidfVectorizer(ngram_range=(1, 3))
     tfidf.fit(chatdata['corpus'])
     train_corpus_tfidf = tfidf.transform(chatdata['corpus'])
     le = preprocessing.LabelEncoder()
@@ -41,7 +41,7 @@ def LogRegTraining():
 def TensorTraining():
     tf.reset_default_graph()
     chatdata = pd.read_csv("chat_ml/Data/processedchatdata.csv", converters={'corpus': str})
-    cv = CountVectorizer(ngram_range=(1, 2))
+    cv = CountVectorizer(ngram_range=(1, 3))
     cv.fit(chatdata['corpus'])
     train_corpus_cv = cv.transform(chatdata['corpus'])
     cv1 = CountVectorizer()

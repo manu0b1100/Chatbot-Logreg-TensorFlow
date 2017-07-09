@@ -1,15 +1,27 @@
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-stopwords=set(stopwords.words('english'))
-stopwords.add(',')
-stopwords.add('.')
-stopwords.add('sopra')
-stopwords.add('steria')
-stopwords.remove('when')
-stopwords.remove('who')
-stopwords.remove('where')
-stopwords.remove('about')
+stopwords1=set(stopwords.words('english'))
+stopwords1.add(',')
+stopwords1.add('.')
+stopwords1.add('sopra')
+stopwords1.add('steria')
+stopwords1.remove('when')
+stopwords1.remove('who')
+stopwords1.remove('where')
+stopwords1.remove('about')
+stopwords1.remove('do')
+
+stopwords2=set(stopwords.words('english'))
+stopwords2.add(',')
+stopwords2.add('.')
+stopwords2.remove('do')
+
+stopwords2.remove('when')
+stopwords2.remove('who')
+stopwords2.remove('where')
+stopwords2.remove('about')
+
 def stem_tokens(tokens):
     stemmer = PorterStemmer()
     stemmed = []
@@ -19,9 +31,13 @@ def stem_tokens(tokens):
 
 
 def tokenize(text):
-    tokens = nltk.word_tokenize(text)
-    tokens = [w for w in tokens if w not in stopwords]
-    tokens = stem_tokens(tokens)
+    tokens1 = nltk.word_tokenize(text)
+    tokens1 = [w for w in tokens1 if w not in stopwords1]
+    tokens2 = nltk.word_tokenize(text)
+    tokens2 = [w for w in tokens2 if w not in stopwords2]
+    if len(tokens1)==0 and len(tokens2) != 0:
+        tokens1=tokens2
+    tokens = stem_tokens(tokens1)
     return ' '.join(tokens)
 
 
@@ -35,7 +51,6 @@ def cleanAndMerge(ques):
     corpus=[]
     for i in range(0,ques.size):
         text=ques[i]
-        text=text.lower()
-        text=tokenize(text)
+        text=clean(text)
         corpus.append(text)
     return corpus
